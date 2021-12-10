@@ -1,0 +1,3 @@
+# demophp
+
+<?php phpinfo(); ?>
